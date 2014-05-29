@@ -1,0 +1,19 @@
+[mathjax]
+
+This project was written very quickly one evening to give myself an emergency alarm clock after my phone was stolen.  As a result it is not very user friendly.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/alarm_clock/">Live page 1</a>
+<a href="https://github.com/aidansean/alarm_clock">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This project simply plays a YouTube video after a fixed period of time.  The alarm plays a fixed number of times at regular intervals.
+
+<h3>Challenges</h3>
+<dl>
+<dt><em>Challenge</em>: Ideally, the user should be able to change the settings for the alarm.</dt>
+
+<dd><em>Solution</em>: I didn't have time to add a user interface (as doing so would have caused me to lose sleep!) (To be revisited.)</dd>
+</dl>
